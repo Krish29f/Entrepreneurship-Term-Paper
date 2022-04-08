@@ -21,10 +21,7 @@
 \newpage
 
 \section*{1. Abstract}
-\newcommand\shortlorem{}
 Blockchain is a technology that has the potential to transform our corporate environment and will have a huge impact in the next decades. It has the potential to alter our perceptions of corporate operations and transform our economy. Because it cannot be tampered with or fabricated, blockchain is a decentralised and distributed ledger system that attempts to assure transparency, data security, and integrity. The majority of current Blockchain Technology research is focused on its application for cryptocurrencies such as Bitcoin, with only a small number of studies looking at the use of Blockchain Technology in other settings or sectors. Blockchain technology is more than just bitcoin; it may be used in government, finance and banking, accounting, and business process management, among other areas. As a result, the purpose of this paper is to research and analyse the benefits and problems of Blockchain Technology for current and future applications.
-
-\shortlorem
 
 \section*{Keywords :}{Block-chain Technology, Cryptocurrency, Business, Smart Contracts.}
 
@@ -61,7 +58,6 @@ Specifically, anyone can use a Public Blockchain to transact on the network in a
 
 \section*{4. The Applications of Blockchain Technology in 
 Business}
-\newcommand\shortlorem{}
 The following section discusses some of the practical uses of Blockchain Technology in various industries. Smart Contracts, Government, Financial Industry, Accounting, and Business Process Management are some of the categories of applications.
 \\\\
 \textbf{Smart Contracts}
@@ -84,7 +80,6 @@ One of the most potential applications of Blockchain Technology is the creation 
 •  \textbf{Blockchain Internet-of-Things} - The Internet of Things (IoT) is a network of networked computing devices, mechanical and digital machinery, items, animals, or people with unique IDs that may transport data over a network without requiring human-to-human or human-to-computer interaction (Bahga &, Madisetti, 2016). It enables data collection and exchange between devices (Chen, et al., 2015; Dorri, et al., 2017) by the use of sensors, embedded software, and a common language. According to Gartner (2017), by 2020, there will be 20.4 billion IoT devices. With such a large number of devices expected to connect IoT hubs in the future, the system may be vulnerable in terms of network security, speed, and cost. The concerns highlighted are addressed by blockchain technology, which improves the interconnection of IoT. Its network will allow devices to operate efficiently, safely, and autonomously by implementing 6Smart Contracts that are only activated when particular prerequisites are met. Because Blockchain provides a single interface for all devices to be controlled, it encourages better automation, cheap transfers (no need for a third-party to supervise transactions), scalability, and security (prevents overrides and compromise of network security) (Christidis & Devetsikiotis, 2016).
 
 \section*{5. Conclusion}
-\newcommand\shortlorem{}
 According to the literature review, Blockchain Technology has a high value and promising future in resolving data integrity issues, boosting transparency, enhancing security, reducing fraud, and establishing trust and privacy. Blockchain technology has the potential to revolutionise industries such as finance, accounting, e-government, business process management, insurance, entertainment, trading platforms, healthcare, the internet of things, and law firms, among others. As a result, depending on the area or industry in which it is used, Blockchain Technology has a large potential for presenting novel solutions, because economic efficiency and social advantages can be reached through technical innovation and applications.
 \\\\
 However, integrating Blockchain Technology at businesses across a variety of industries could be prohibitively expensive. Organizations must invest a large amount of money to migrate or move legacy systems. Organizations will have to develop a single platform to handle such hybrid application architecture, including Blockchain and traditional systems, at this early stage of Blockchain adoption. As a result, they must gain a better understanding of Blockchain Technology, including its value, potential, and hazards. As a result, just a few cases of the technology being used with these systems have been documented.
@@ -94,7 +89,6 @@ As a result, Blockchain Technology may not be able to quickly replace traditiona
 To summarise, more intensive research in the domain of Blockchain Technology is required to progress the field's maturity, as it is still in the exploratory stage and many legal and technological challenges remain to be resolved. As a result, this study serves as a good beginning point for future research topics related to the development of Blockchain applications, as well as a resource for practitioners and scholars.
 
 \section*{6. References}
-\newcommand\shortlorem{}
 1. T. Ahram et al., T. Ah (2017). 137–141 in 2017 IEEE Technology & Engineering Management Conference (TEMSCON), Blockchain technology developments.
 \\
 2.S. Angraal et al (2017). Applications of Blockchain Technology in Health Care Circulation. e003800 in Cardiovascular Quality and Outcomes, vol. 10, no. 9 (Sept. 2017). DOI:https://doi.org/10.1161/CIRCOUTCOMES.117.003800.
@@ -113,7 +107,7 @@ To summarise, more intensive research in the domain of Blockchain Technology is 
 14.A. Dorri, S. S. Kanhere, and R. Jurdak (2017). ArXiv preprint arXiv:1608.05187, Blockchain in the Internet of Things: Challenges and Solutions.\\
 15.B. Düdder and O. Ross (2017). Timber tracking: Using blockchain technology to reduce the difficulty of due diligence (position paper). Proceedings of the CEUR Workshop (2017).\\
 16.M. Dumas, M. La Rosa, J. Mendling, H. Reijers, M. La Rosa, M. La Rosa,, M. La (2018). Business Process Management Fundamentals is a course that teaches you the fundamentals of business process management. Berlin: Springer Berlin.\\
-17.Centers, Fanning, K. & D.P., Fanning, K. & D.P., Fanning, K. & D.P (2016). "Blockchain and Its Impending Financial Services Impact," Journal of Corporate Accounting & Finance, 27(5), pp. 53–57.\\
+17.Centers, Fanning, K. & D.P., Fanning, K. & D.P., Fanning, K. & D.P (2016)."Blockchain and Its Impending Financial Services Impact," Journal of Corporate Accounting & Finance, 27(5), pp. 53–57.\\
 18.P. Forrest (2016). Use cases for blockchain in non-financial services.\\
 19.D. Tapscott, A. Tapscott, D. Tapscott, D. Tapscott, D. Tapscott (2016). The blockchain's significance extends beyond financial services. Harvard Business Review is a publication dedicated to the study of business.\\
 20.Deloitte Insights | Understanding the Basics of Blockchain in Government (2017).\\
